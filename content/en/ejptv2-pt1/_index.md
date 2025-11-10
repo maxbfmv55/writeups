@@ -3,6 +3,9 @@ title: "eJPTv2 / PT1 — Ruta de práctica"
 layout: "single"
 ---
 
+In this section I present a list of machines to practice on and prepare for the eJPTv2 and PT1 exams. For each machine I provide: a link to the write-up, a link to the machine (if applicable), and a short summary card with difficulty and focus (e.g., SMB, SSH, CMS, pivoting).
+
+Most exercises cover attacks against SMB, SSH, CMS (WordPress, Drupal, Fuel, etc.), and the use of Metasploit. Machines focused on pivoting are grouped in a separate section and include links to videos and instructional material for practice.
 
 https://dockerlabs.es/
 

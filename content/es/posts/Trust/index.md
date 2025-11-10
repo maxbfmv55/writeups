@@ -6,6 +6,7 @@ description: "Write-up de la máquina Trust de DockerLabs: escaneo con Nmap, fuz
 difficulty: "Muy fácil"
 author: "Maximiliano Espinoza"
 ---
+![logo](logo.png)
 
 
 ## Información
