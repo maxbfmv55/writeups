@@ -19,7 +19,7 @@ enableRobotsTXT = true
     languageName = "Español"
     weight = 1
     contentDir = "content/es"
-    title = "Maximiliano Espinoza aka max.metal — Write-ups"
+    title = "Maximiliano Espinoza — Write-ups"
     languageCode = "es-AR"
 
     [languages.es.params]
@@ -61,7 +61,7 @@ enableRobotsTXT = true
     languageName = "English"
     weight = 2
     contentDir = "content/en"
-    title = "Maximiliano Espinoza aka max.metal — Write-ups"
+    title = "Maximiliano Espinoza — Write-ups"
     languageCode = "en"
 
     [languages.en.params]
