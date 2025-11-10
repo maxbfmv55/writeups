@@ -1,0 +1,8 @@
+- id: readMore
+  translation: "Leer más"
+- id: translations
+  translation: "Traducciones"
+- id: prev
+  translation: "Anterior"
+- id: next
+  translation: "Siguiente"

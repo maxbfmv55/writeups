@@ -1,0 +1,119 @@
+baseURL = "https://maxbfmv55.github.io/writeups/"
+title = "Maximiliano Espinoza aka max.metal — Write-ups"
+theme = "PaperMod"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[languages]
+
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    contentDir = "content/es"
+    title = "Maximiliano Espinoza aka max.metal — Write-ups"
+    languageCode = "es-AR"
+
+    [languages.es.params]
+      homeInfoParams = { Title = "Write-ups y Pentesting", Content = "CTF, seguridad ofensiva y notas técnicas." }
+      ShowReadingTime = true
+      ShowPostNavLinks = true
+      ShowShareButtons = false
+      ShowBreadCrumbs = true
+      ShowWordCount = true
+
+    [[languages.es.menu.main]]
+    name = "Inicio"
+    url  = "es/"
+    weight = 1
+
+    [[languages.es.menu.main]]
+    name = "Sobre Mí"
+    url  = "sobre/"
+    weight = 2
+
+    [[languages.es.menu.main]]
+    name = "eJPTv2/PT1"
+    url  = "ejptv2-pt1/"
+    weight = 3
+
+    [[languages.es.menu.main]]
+    name = "Write-ups"
+    url  = "posts/"
+    weight = 4
+
+    [[languages.es.menu.main]]
+    name = "Contacto"
+    url  = "contacto/"
+    weight = 5
+
+    
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    title = "Maximiliano Espinoza aka max.metal — Write-ups"
+    languageCode = "en"
+
+    [languages.en.params]
+      homeInfoParams = { Title = "Write-ups & Pentesting", Content = "CTF, offensive security, and tech notes." }
+      ShowReadingTime = true
+      ShowPostNavLinks = true
+      ShowShareButtons = false
+      ShowBreadCrumbs = true
+      ShowWordCount = true
+
+    [[languages.en.menu.main]]
+    name = "Home"
+    url  = "en/"
+    weight = 1
+
+    [[languages.en.menu.main]]
+    name = "About Me"
+    url  = "en/about/"
+    weight = 2
+
+    [[languages.en.menu.main]]
+    name = "eJPTv2/PT1"
+    url  = "en/ejptv2-pt1/"
+    weight = 3
+
+    [[languages.en.menu.main]]
+    name = "Write-ups"
+    url  = "en/posts/"
+    weight = 4
+
+    [[languages.en.menu.main]]
+    name = "Contac me"
+    url  = "contactme/"
+    weight = 5
+    
+  
+
+[params]
+  env = "production"
+  description = "CTF, pentesting y seguridad ofensiva."
+  author = "Maximiliano Espinoza"
+  keywords = ["pentesting","ctf","tryhackme","security"]
+  DateFormat = "Jan 02, 2006"
+  ShowLanguageSwitch = true
+  ShowCodeCopyButtons = true
+  disableThemeToggle = false
+
+  [params.assets]
+    disableHLJS = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      hardLineBreaks = true
+    [markup.goldmark.renderer]
+      unsafe = true
