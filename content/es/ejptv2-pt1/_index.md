@@ -4,9 +4,10 @@ layout: "single"
 ---
 
 
-En este apartado presentare el listado de maquinas para poder practicar y prepararse para los examentes eJPTv2 y PT1, dejate el link de cada write-up y el link de la maquina si corresponde.
+En este apartado presento un listado de máquinas para practicar y prepararse para los exámenes eJPTv2 y PT1.
+Para cada máquina dejo: enlace al write-up, enlace a la máquina (si corresponde) y una breve ficha con dificultad y foco (p. ej. SMB, SSH, CMS, pivoting).
 
-La mayoria de las maquinas son para practicar ataque a SMB, ssh, CMS (Wordpress, drupal, fuel, etc), metaexploit; la sección de pivoting pondre las maquinas aparte y dejare enlaces de videos para su respectiva practica.
+La mayoría de los ejercicios cubren ataque a SMB, SSH, CMS (WordPress, Drupal, Fuel, etc.) y uso de Metasploit. Las máquinas orientadas a pivoting están agrupadas en una sección aparte e incluyen enlaces a videos y material didáctico para su práctica.
 
 
 https://dockerlabs.es/
