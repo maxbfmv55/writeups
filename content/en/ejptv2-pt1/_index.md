@@ -14,5 +14,5 @@ DockerLabs is a collection of hands-on, container-based labs (Docker) designed t
 ---
 
 ### Trust
-**Mi write-up:** [Trust — mi write-up](/en/posts/trust/)  
+**My write-up:** [Trust — mi write-up](/en/posts/trust/)  
  
