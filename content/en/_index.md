@@ -26,4 +26,4 @@ Right now I'm focused on machines that help prepare two entry-level certificatio
 In each section you’ll find a listing of machines, a link to my write-up here and a link to the original challenge (TryHackMe, HackTheBox, etc.).  
 This helps me organize my study by certification and maintain a clear track record for recruiters and peers.  
 
-> 💡 If you’d like to check the exercises I’ve already posted, click here → **[Write-ups](/en/posts/)**.
+> 💡 If you’d like to check the exercises I’ve already posted, click here → **[Write-ups](en/posts/)**.
