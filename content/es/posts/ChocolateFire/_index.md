@@ -1,5 +1,5 @@
 ---
-title: "ChocolateFire — Write-up"
+title: "ChocolateFire (DockerLabs)"
 date: 2025-11-10
 tags: ["dockerlabs","openfire","web","hydra","privilege-escalation","ejptv2","pt1"]
 description: "Write-up de la máquina ChocolateFire: reconocimiento con nmap, explotación de Openfire, fuerza bruta con Hydra y escalada de privilegios."
