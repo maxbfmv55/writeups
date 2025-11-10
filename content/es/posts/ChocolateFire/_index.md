@@ -4,7 +4,6 @@ date: 2025-11-10
 tags: ["dockerlabs","openfire","web","hydra","privilege-escalation","ejptv2","pt1"]
 description: "Write-up de la máquina ChocolateFire: reconocimiento con nmap, explotación de Openfire, fuerza bruta con Hydra y escalada de privilegios."
 layout: "single"
-draft: false
 ---
 
 ![logo](01.png)
