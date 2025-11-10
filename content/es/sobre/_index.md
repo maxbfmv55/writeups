@@ -22,5 +22,10 @@ Completé las rutas de aprendizaje:
 
 Hace unos meses, una vez finalizados esos caminos, empecé a realizar **CTFs de manera diaria** con el objetivo de prepararme para rendir el **eJPTv2** — una meta personal y profesional que me propuse alcanzar antes de que termine **2025**.
 
+En paralelo, tuve la oportunidad de ser **orador y tallerista en el evento HackelValle** (Universidad Nacional del Comahue), donde brindé la charla “De 0 a Jr. Pentester: mi viaje como autodidacta” y un taller práctico sobre "reverse shells en PostgreSQL mal configurado".
+Fue una experiencia increíble que me permitió compartir mi recorrido y motivar a más personas a comenzar en el mundo del hacking ético.
+
 Mi meta a mediano plazo es seguir creciendo, obtener certificaciones más avanzadas y conseguir mi **primer trabajo 100% en ciberseguridad**.  
 Este sitio es parte de ese recorrido: un registro de mi aprendizaje y una manera de compartirlo con la comunidad. 🚀
+In parallel, I had the opportunity to be a speaker and workshop instructor at the HackelValle event (National University of Comahue), where I delivered the talk “From Zero to Jr. Pentester: My Autodidact Journey” and a hands-on workshop on reverse shells in misconfigured PostgreSQL.
+It was an incredible experience that allowed me to share my journey and inspire others to start their own path in the world of ethical hacking

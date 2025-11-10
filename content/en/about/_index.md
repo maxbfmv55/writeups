@@ -21,5 +21,8 @@ I’ve completed the learning paths:
 
 After finishing those paths, I started doing **daily CTFs** to prepare for the **eJPTv2** certification — a personal and professional goal I’ve set to achieve before the end of **2025**.
 
+In parallel, I had the opportunity to be a **speaker and workshop instructor at the HackelValle event** (National University of Comahue), where I delivered the talk “From Zero to Jr. Pentester: My Autodidact Journey” and a hands-on workshop on reverse shells in misconfigured PostgreSQL.
+It was an incredible experience that allowed me to share my journey and inspire others to start their own path in the world of ethical hacking
+
 My medium-term goal is to continue growing, pursue more advanced certifications, and land my **first full-time job in cybersecurity**.  
 This site is part of that journey — a place to document what I learn and share it with the community. 🚀
