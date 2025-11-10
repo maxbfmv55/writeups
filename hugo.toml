@@ -1,6 +1,6 @@
 baseURL = "https://maxbfmv55.github.io/writeups/"
 publishDir = "public"
-title = "Maximiliano Espinoza aka max.metal — Write-ups"
+title = "Maximiliano Espinoza — Write-ups"
 theme = "PaperMod"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
