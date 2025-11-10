@@ -4,7 +4,10 @@ layout: "single"
 ---
 
 
-Primero empezaremos con un listado de maquinas de dockerlabs.
+En este apartado presentare el listado de maquinas para poder practicar y prepararse para los examentes eJPTv2 y PT1, dejate el link de cada write-up y el link de la maquina si corresponde.
+
+La mayoria de las maquinas son para practicar ataque a SMB, ssh, CMS (Wordpress, drupal, fuel, etc), metaexploit; la sección de pivoting pondre las maquinas aparte y dejare enlaces de videos para su respectiva practica.
+
 
 https://dockerlabs.es/
  
