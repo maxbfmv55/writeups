@@ -3,7 +3,6 @@ title: "eJPTv2 / PT1 — Ruta de práctica"
 layout: "single"
 ---
 
-
 En este apartado presento un listado de máquinas para practicar y prepararse para los exámenes eJPTv2 y PT1.
 Para cada máquina dejo: enlace al write-up, enlace a la máquina (si corresponde) y una breve ficha con dificultad y foco (p. ej. SMB, SSH, CMS, pivoting).
 
