@@ -27,5 +27,3 @@ Fue una experiencia increíble que me permitió compartir mi recorrido y motivar
 
 Mi meta a mediano plazo es seguir creciendo, obtener certificaciones más avanzadas y conseguir mi **primer trabajo 100% en ciberseguridad**.  
 Este sitio es parte de ese recorrido: un registro de mi aprendizaje y una manera de compartirlo con la comunidad. 🚀
-In parallel, I had the opportunity to be a speaker and workshop instructor at the HackelValle event (National University of Comahue), where I delivered the talk “From Zero to Jr. Pentester: My Autodidact Journey” and a hands-on workshop on reverse shells in misconfigured PostgreSQL.
-It was an incredible experience that allowed me to share my journey and inspire others to start their own path in the world of ethical hacking
