@@ -82,6 +82,8 @@ Hecho esto procedemos a realizar el escaneo con wpscan
 
 ```bash
 echo 'export WPSCAN_API_TOKEN'
+```
+```bash
 wpscan --url http://172.17.0.2/wordpress/ --enumerate u                  
 ```
 
