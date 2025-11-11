@@ -177,7 +177,7 @@ binario vamos a poder escalar privilegios.
 
 ahora ejecutamos la ruta absoluta y escalamos privilegios.
 
-![root](17.png)
+![root](15.png)
 
 
 De esta manera terminamos la maquina WalkingCMS.
