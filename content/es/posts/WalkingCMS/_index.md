@@ -148,8 +148,6 @@ export TERM=xterm; stty rows 40 columns 120
 ```
 ![exploit](12.png)
 
-
-
 NOTA: realize una series de comandos para estabilizar la 
 tty.
 
@@ -170,12 +168,7 @@ https://gtfobins.github.io/ y buscamos el binario env, con este
 binario vamos a poder escalar privilegios.
 ![enum](14.png)
 
-
-
-
-
-
-ahora ejecutamos la ruta absoluta y escalamos privilegios.
+Ahora ejecutamos la ruta absoluta y escalamos privilegios.
 
 ![root](15.png)
 
