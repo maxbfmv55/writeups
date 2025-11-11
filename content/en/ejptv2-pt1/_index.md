@@ -17,4 +17,4 @@ DockerLabs is a collection of hands-on, container-based labs (Docker) designed t
 **My write-up:** [Trust](posts/trust/)  
 
 ### ChocolateFire
-**My write-up:** [Trust](posts/chocolatefire/)
+**My write-up:** [ChocolateFire](posts/chocolatefire/)
