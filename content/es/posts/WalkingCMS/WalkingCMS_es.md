@@ -1,4 +1,4 @@
---
+---
 title: "WalkingCMS (DockerLabs)"
 date: 2025-10-08
 tags: ["dockerlabs", "linux", "web", "hydra", "privilege-escalation", "ejptv2", "pt1"]
