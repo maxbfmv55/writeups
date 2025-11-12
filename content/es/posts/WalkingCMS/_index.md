@@ -6,6 +6,7 @@ description: "Intrusión por fuerza bruta en el panel interno de wordpress y acc
 difficulty: "Fácil"
 author: "Maximiliano Espinoza"
 ---
+
 ![logo](logo.png)
 
 
