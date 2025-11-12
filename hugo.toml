@@ -47,7 +47,7 @@ enableRobotsTXT = true
 
     [[languages.es.menu.main]]
     name = "Write-ups"
-    url  = "posts/"
+    url  = "writeup/"
     weight = 4
 
     [[languages.es.menu.main]]
@@ -89,7 +89,7 @@ enableRobotsTXT = true
 
     [[languages.en.menu.main]]
     name = "Write-ups"
-    url  = "en/posts/"
+    url  = "en/writeup/"
     weight = 4
 
     [[languages.en.menu.main]]

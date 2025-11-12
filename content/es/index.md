@@ -29,4 +29,4 @@ Esto me ayuda a organizar el estudio por certificación y a mantener un registro
 
 
 
-> 💡 Si querés ver los ejercicios que ya subí, hace click aca --> **[Write-ups](posts/)**.
+> 💡 Si querés ver los ejercicios que ya subí, hace click aca --> **[Write-ups](writeup/)**.
