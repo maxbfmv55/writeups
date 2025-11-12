@@ -18,3 +18,6 @@ DockerLabs is a collection of hands-on, container-based labs (Docker) designed t
 
 ### ChocolateFire
 **My write-up:** [ChocolateFire](posts/chocolatefire/)
+
+### WalkingCMS
+**My write-up:** [WalkingCMS](posts/WalkingCMS/)
