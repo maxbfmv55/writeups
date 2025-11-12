@@ -94,7 +94,7 @@ enableRobotsTXT = true
 
     [[languages.en.menu.main]]
     name = "Contac me"
-    url  = "contactme/"
+    url  = "en/contactme/"
     weight = 5
     
   
