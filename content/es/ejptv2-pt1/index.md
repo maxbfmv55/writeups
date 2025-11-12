@@ -18,10 +18,10 @@ DockerLabs es una colección de laboratorios prácticos basados en contenedores 
 
 
 ### Trust
-**Mi write-up:** [Trust](posts/trust/)  
+**Mi write-up:** [Trust](writeup/trust/)  
  
 ### ChocolateFire
-**Mi write-up:** [ChocolateFire](posts/ChocolateFire/)
+**Mi write-up:** [ChocolateFire](writeup/ChocolateFire/)
 
 ### WalkingCMS
-**Mi write-up:** [WalkingCMS](posts/WalkingCMS/)
+**Mi write-up:** [WalkingCMS](writeup/WalkingCMS/)
