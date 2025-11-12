@@ -67,6 +67,7 @@ gobuster dir -u 172.17.0.2/wordpress -w /usr/share/wordlists/dirbuster/directory
 Lo primero que vamos hacer revisar las paginas que nos aparecen, 
 entre ellas una que nos interesa es el directorio /wordpress/wp-
 login.php 
+
 ![gobusword](4.png)
 
 
@@ -81,7 +82,7 @@ esto nos dirigimos a la pagina de la herramienta:
 https://wpscan.com, nos creamos una cuenta y copiamos el API Token, 
 luego lo exportamos y podemos hacerlo persistente.
 
-Hecho esto procedemos a realizar el escaneo con wpscan
+Hecho esto procedemos a realizar el escaneo con wpscan:
 
 ```bash
 echo 'export WPSCAN_API_TOKEN'
