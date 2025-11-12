@@ -3,7 +3,6 @@ title: "Sobre mí"
 layout: "single"
 ---
 
-
 Soy **Maximiliano Espinoza**, oriundo de la **Patagonia Argentina** y graduado de la **Universidad Nacional del Comahue** como *Técnico en Administración de Sistemas y Software Libre*.  
 Fue allí donde me picó el bichito de la **ciberseguridad** 🐞💻.
 
