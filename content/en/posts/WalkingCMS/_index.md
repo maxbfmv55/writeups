@@ -6,6 +6,7 @@ description: "Brute-force intrusion on an internal WordPress panel and server ac
 difficulty: "Easy"
 author: "Maximiliano Espinoza"
 ---
+
 ![logo](logo.png)
 
 **1. Information**
