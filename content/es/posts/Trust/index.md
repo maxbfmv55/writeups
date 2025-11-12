@@ -18,8 +18,6 @@ Una vez desplegado el docker de la maquina, procedemos a realizar un reconocimie
 ```bash
 ping -c 4 172.18.0.2
 ```
-
-
 ![ping](1.png)
 
 ```bash
