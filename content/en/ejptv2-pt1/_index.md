@@ -7,11 +7,12 @@ In this section I present a list of machines to practice on and prepare for the 
 
 Most exercises cover attacks against SMB, SSH, CMS (WordPress, Drupal, Fuel, etc.), and the use of Metasploit. Machines focused on pivoting are grouped in a separate section and include links to videos and instructional material for practice.
 
+---
+
 https://dockerlabs.es/
 
 DockerLabs is a collection of hands-on, container-based labs (Docker) designed to practice vulnerabilities in reproducible environments. They’re great for learning container enumeration, container privilege escalation, and persistence concepts in Docker environments.
 
----
 
 ### Trust
 **My write-up:** [Trust](posts/trust/)  
