@@ -6,7 +6,7 @@ defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 
 [pagination]
   pagerSize = 10
