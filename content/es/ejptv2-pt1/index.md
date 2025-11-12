@@ -17,11 +17,6 @@ https://dockerlabs.es/
 DockerLabs es una colección de laboratorios prácticos basados en contenedores (Docker) pensada para practicar vulnerabilidades en entornos reproducibles. Son útiles para aprender enumeración, escalado en contenedores y conceptos de persistencia/privilegios en entornos Docker.
 
 
-### Trust
-**Mi write-up:** [Trust](writeup/trust/)  
- 
-### ChocolateFire
-**Mi write-up:** [ChocolateFire](writeup/ChocolateFire/)
-
-### WalkingCMS
-**Mi write-up:** [WalkingCMS](writeup/WalkingCMS/)
+> **08/10/2025** [Trust](writeup/trust/)  
+> **09/10/2025** [ChocolateFire](writeup/chocolatefire/)
+> **10/10/2025** [WalkingCMS](writeup/WalkingCMS/)
