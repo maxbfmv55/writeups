@@ -107,8 +107,9 @@ maquina victima.
 
 ![smb](13.png)
 
-Vamos al navegador y le          ![ip_web](14.png)
-damos enter ->          
+Vamos al navegador y le damos enter.   
+
+![ip_web](14.png)
 
 Y en nuestro listener obtenemos la reverse shell.
 

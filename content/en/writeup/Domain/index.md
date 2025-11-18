@@ -97,7 +97,8 @@ Then we start a listener so that when we access `/reverse.php`, we establish a c
 
 ![smb](13.png)
 
-We visit the page → ![ip_web](14.png)
+We visit the page
+ ![ip_web](14.png)
 
 And on our listener, we receive the reverse shell.
 
